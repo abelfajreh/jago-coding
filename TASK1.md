@@ -1,0 +1,2 @@
+# MetKom week 1 kita belajar tentnag dasar dasar GitHub, mulai dari git add, git commmit, dan masih banyak lagi
+## Sejauh ini saya belum menemukan kendala dengan git hub, namun saat sesi tutor oleh Mas Eben kemarin agak susah dipahami karena penjelasan yang dilakukan terkesan cukup cepat
